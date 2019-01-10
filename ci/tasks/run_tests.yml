@@ -13,4 +13,4 @@ inputs:
 
 run:
   path: bash
-  args: hello_hapi/ci/scripts/run_tests.sh
+  args: [hello_hapi/ci/scripts/run_tests.sh]
