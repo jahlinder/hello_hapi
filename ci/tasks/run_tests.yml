@@ -12,4 +12,5 @@ inputs:
   - name: dependency-cache
 
 run:
-  path: hello_hapi/ci/scripts/run_tests.sh
+  path: bash
+  args: hello_hapi/ci/scripts/run_tests.sh
